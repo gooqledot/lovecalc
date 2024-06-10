@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lovecalc/static/css/main.42900a0f.css",
+    "main.js": "/lovecalc/static/js/main.f3d6b07a.js",
+    "static/js/453.e795787e.chunk.js": "/lovecalc/static/js/453.e795787e.chunk.js",
+    "index.html": "/lovecalc/index.html",
+    "main.42900a0f.css.map": "/lovecalc/static/css/main.42900a0f.css.map",
+    "main.f3d6b07a.js.map": "/lovecalc/static/js/main.f3d6b07a.js.map",
+    "453.e795787e.chunk.js.map": "/lovecalc/static/js/453.e795787e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42900a0f.css",
+    "static/js/main.f3d6b07a.js"
+  ]
+}
